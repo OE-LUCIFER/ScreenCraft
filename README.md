@@ -2,8 +2,6 @@
 
 A professional-grade screen recording application with advanced features and mobile support.
 
-![ScreenCraft Pro](https://source.unsplash.com/random/1200x630/?screen,recording)
-
 ## Features
 
 ### Recording Capabilities
